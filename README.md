@@ -1,2 +1,2 @@
 # FrontUI5
-Front desarrollado en UI5 para consumir el servicio Employees
+This is a UI5 application developed to consume the CAP service called CAP_Employees which can also be found in this repository.
